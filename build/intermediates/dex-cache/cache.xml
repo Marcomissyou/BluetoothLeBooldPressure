@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android Studio\workspace\BluetoothLeBooldPressure\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="D:\Android Studio\workspace\BluetoothLeBooldPressure\Application\build\intermediates\pre-dexed\debug\classes-6de01db69d454d796d6464d72648ded901919a4f.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\workspace\BluetoothLeBooldPressure\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="D:\Android Studio\workspace\BluetoothLeBooldPressure\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-058bb598d2ca753a942eb8f9c99827e28ea09a5a.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\workspace\BluetoothLeBooldPressure\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="D:\Android Studio\workspace\BluetoothLeBooldPressure\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-278e2ec0191906456efd96bebc90f3a537cdea14.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="D:\Android Studio\workspace\BluetoothLeBooldPressure\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-d187887f4a00d32aac63dda4d5cb829700a5e07d.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\workspace\BluetoothLeBooldPressure\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="D:\Android Studio\workspace\BluetoothLeBooldPressure\Application\build\intermediates\pre-dexed\debug\classes-a10750075fe73d6bbcb31aef01364a4f7c215d59.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\workspace\BluetoothLeBooldPressure\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="D:\Android Studio\workspace\BluetoothLeBooldPressure\Application\build\intermediates\pre-dexed\debug\classes-9d37f97017dbe8ee60395684a8a10a01b0da8229.jar" />
+    </item>
+
+</items>

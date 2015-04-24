@@ -1,0 +1,7 @@
+D:\Android Studio\workspace\BluetoothLeBooldPressure\Application\build\intermediates\classes\debug
+D:\Android Studio\workspace\BluetoothLeBooldPressure\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-278e2ec0191906456efd96bebc90f3a537cdea14.jar
+D:\Android Studio\workspace\BluetoothLeBooldPressure\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-d187887f4a00d32aac63dda4d5cb829700a5e07d.jar
+D:\Android Studio\workspace\BluetoothLeBooldPressure\Application\build\intermediates\pre-dexed\debug\classes-a10750075fe73d6bbcb31aef01364a4f7c215d59.jar
+D:\Android Studio\workspace\BluetoothLeBooldPressure\Application\build\intermediates\pre-dexed\debug\classes-9d37f97017dbe8ee60395684a8a10a01b0da8229.jar
+D:\Android Studio\workspace\BluetoothLeBooldPressure\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-058bb598d2ca753a942eb8f9c99827e28ea09a5a.jar
+D:\Android Studio\workspace\BluetoothLeBooldPressure\Application\build\intermediates\pre-dexed\debug\classes-6de01db69d454d796d6464d72648ded901919a4f.jar
